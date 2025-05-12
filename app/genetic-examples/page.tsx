@@ -3,7 +3,10 @@
 import { useState } from 'react';
 import { TimetableGA } from '../AI/domains/timetable/TimetableGA';
 import { TSPSolver } from '../AI/domains/tsp/TSPSolver';
-import { TimetableInputData, TimetableResultData } from '../types/timetable-ga.interface';
+import {
+  TimetableInputData,
+  TimetableResultData,
+} from '../AI/domains/timetable/types/timetable-ga.interface';
 
 // Define the TSPResult interface to match what TSPSolver returns
 interface TSPResult {

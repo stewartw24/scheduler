@@ -1,7 +1,7 @@
 import { GeneticAlgorithm } from '../../core/GeneticAlgorithm';
 import { Timetable } from './Timetable';
 import { TimetableProblemDomain } from './TimetableProblemDomain';
-import { TimetableInputData, TimetableResultData } from '../../../types/timetable-ga.interface';
+import { TimetableInputData, TimetableResultData } from './types/timetable-ga.interface';
 
 /**
  * Class that handles the timetable scheduling using the genetic algorithm

@@ -1,7 +1,7 @@
-import { IProblemDomain } from '../../core/IProblemDomain';
+import { IProblemDomain } from '../../../types/core/problem-domain.interface';
 import { Individual } from '../../core/Individual';
 import { Timetable } from './Timetable';
-import { TimetableResultData } from '../../../types/timetable-ga.interface';
+import { TimetableResultData } from './types/timetable-ga.interface';
 import { Class } from './Class';
 
 /**

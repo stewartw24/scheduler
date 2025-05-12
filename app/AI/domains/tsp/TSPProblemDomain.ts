@@ -1,4 +1,4 @@
-import { IProblemDomain } from '../../core/IProblemDomain';
+import { IProblemDomain } from '../../../types/core/problem-domain.interface';
 import { Individual } from '../../core/Individual';
 
 export interface City {

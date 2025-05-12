@@ -1,5 +1,5 @@
 import { Individual } from './Individual';
-import { IProblemDomain } from './IProblemDomain';
+import { IProblemDomain } from '../../types/core/problem-domain.interface';
 import { IPopulation } from '../../types/core/population.interface';
 
 /**

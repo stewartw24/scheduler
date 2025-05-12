@@ -1,7 +1,7 @@
 // filepath: /home/stewartw24/scheduler/app/AI/core/GeneticAlgorithm.ts
 import { Population } from './Population';
 import { Individual } from './Individual';
-import { IProblemDomain } from './IProblemDomain';
+import { IProblemDomain } from '../../types/core/problem-domain.interface';
 import { IGeneticAlgorithm } from '../../types/core/genetic-algorithm.interface';
 
 /**

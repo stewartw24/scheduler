@@ -1,4 +1,4 @@
-import { Individual } from './Individual';
+import { Individual } from '../../AI/core/Individual';
 
 /**
  * Interface for problem domains that can be solved with the genetic algorithm

@@ -1,6 +1,6 @@
 import { TimetableGA } from '../AI/domains/timetable/TimetableGA';
 import { TSPSolver } from '../AI/domains/tsp/TSPSolver';
-import { TimetableInputData } from '../types/timetable-ga.interface';
+import { TimetableInputData } from '../AI/domains/timetable/types/timetable-ga.interface';
 
 /**
  * Example usage of the genetic algorithm framework for different problem domains
